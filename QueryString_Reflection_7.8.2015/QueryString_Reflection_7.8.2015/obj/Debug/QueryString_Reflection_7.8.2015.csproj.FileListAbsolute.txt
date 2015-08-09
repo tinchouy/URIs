@@ -1,0 +1,6 @@
+c:\users\tincho\documents\visual studio 2015\Projects\QueryString_Reflection_7.8.2015\QueryString_Reflection_7.8.2015\bin\Debug\QueryString_Reflection_7.8.2015.exe.config
+c:\users\tincho\documents\visual studio 2015\Projects\QueryString_Reflection_7.8.2015\QueryString_Reflection_7.8.2015\bin\Debug\QueryString_Reflection_7.8.2015.exe
+c:\users\tincho\documents\visual studio 2015\Projects\QueryString_Reflection_7.8.2015\QueryString_Reflection_7.8.2015\bin\Debug\QueryString_Reflection_7.8.2015.pdb
+c:\users\tincho\documents\visual studio 2015\Projects\QueryString_Reflection_7.8.2015\QueryString_Reflection_7.8.2015\obj\Debug\QueryString_Reflection_7.8.2015.csprojResolveAssemblyReference.cache
+c:\users\tincho\documents\visual studio 2015\Projects\QueryString_Reflection_7.8.2015\QueryString_Reflection_7.8.2015\obj\Debug\QueryString_Reflection_7.8.2015.exe
+c:\users\tincho\documents\visual studio 2015\Projects\QueryString_Reflection_7.8.2015\QueryString_Reflection_7.8.2015\obj\Debug\QueryString_Reflection_7.8.2015.pdb
